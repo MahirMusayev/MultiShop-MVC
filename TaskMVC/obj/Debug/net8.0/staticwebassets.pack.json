@@ -1,0 +1,225 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Asset\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Asset\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Asset\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Asset\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Asset\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Asset\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\css\\style.css",
+      "PackagePath": "staticwebassets\\Asset\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\Asset\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\Asset\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\Asset\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\img\\carousel-3.jpg",
+      "PackagePath": "staticwebassets\\Asset\\img\\carousel-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\img\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\Asset\\img\\cat-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\img\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\Asset\\img\\cat-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\img\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\Asset\\img\\cat-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\img\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\Asset\\img\\cat-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\img\\offer-1.jpg",
+      "PackagePath": "staticwebassets\\Asset\\img\\offer-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\img\\offer-2.jpg",
+      "PackagePath": "staticwebassets\\Asset\\img\\offer-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\img\\payments.png",
+      "PackagePath": "staticwebassets\\Asset\\img\\payments.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\Asset\\img\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\Asset\\img\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\Asset\\img\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\Asset\\img\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\Asset\\img\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\img\\product-6.jpg",
+      "PackagePath": "staticwebassets\\Asset\\img\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\img\\product-7.jpg",
+      "PackagePath": "staticwebassets\\Asset\\img\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\img\\product-8.jpg",
+      "PackagePath": "staticwebassets\\Asset\\img\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\img\\product-9.jpg",
+      "PackagePath": "staticwebassets\\Asset\\img\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\Asset\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\img\\vendor-1.jpg",
+      "PackagePath": "staticwebassets\\Asset\\img\\vendor-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\img\\vendor-2.jpg",
+      "PackagePath": "staticwebassets\\Asset\\img\\vendor-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\img\\vendor-3.jpg",
+      "PackagePath": "staticwebassets\\Asset\\img\\vendor-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\img\\vendor-4.jpg",
+      "PackagePath": "staticwebassets\\Asset\\img\\vendor-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\img\\vendor-5.jpg",
+      "PackagePath": "staticwebassets\\Asset\\img\\vendor-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\img\\vendor-6.jpg",
+      "PackagePath": "staticwebassets\\Asset\\img\\vendor-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\img\\vendor-7.jpg",
+      "PackagePath": "staticwebassets\\Asset\\img\\vendor-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\img\\vendor-8.jpg",
+      "PackagePath": "staticwebassets\\Asset\\img\\vendor-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\js\\main.js",
+      "PackagePath": "staticwebassets\\Asset\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\Asset\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\Asset\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\Asset\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\Asset\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Asset\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Asset\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Asset\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Asset\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Asset\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Asset\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Asset\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Asset\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Asset\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\wwwroot\\Asset\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Asset\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TaskMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TaskMVC.props",
+      "PackagePath": "build\\TaskMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TaskMVC.props",
+      "PackagePath": "buildMultiTargeting\\TaskMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TaskMVC.props",
+      "PackagePath": "buildTransitive\\TaskMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

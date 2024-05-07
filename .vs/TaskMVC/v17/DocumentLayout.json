@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|c:\\users\\ca.r214.04\\desktop\\taskmvc\\taskmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|c:\\users\\ca.r214.04\\desktop\\taskmvc\\taskmvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|c:\\users\\ca.r214.04\\desktop\\taskmvc\\taskmvc\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|c:\\users\\ca.r214.04\\desktop\\taskmvc\\taskmvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|c:\\users\\ca.r214.04\\desktop\\taskmvc\\taskmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|c:\\users\\ca.r214.04\\desktop\\taskmvc\\taskmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|c:\\users\\ca.r214.04\\desktop\\taskmvc\\taskmvc\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|c:\\users\\ca.r214.04\\desktop\\taskmvc\\taskmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|c:\\users\\ca.r214.04\\desktop\\taskmvc\\taskmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|c:\\users\\ca.r214.04\\desktop\\taskmvc\\taskmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|c:\\users\\ca.r214.04\\desktop\\taskmvc\\taskmvc\\taskmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\taskmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|c:\\users\\ca.r214.04\\desktop\\taskmvc\\taskmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TaskMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TaskMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T07:41:44.587Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TaskMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TaskMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T09:35:41.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\Views\\Product\\Detail.cshtml",
+              "RelativeDocumentMoniker": "TaskMVC\\Views\\Product\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\Views\\Product\\Detail.cshtml",
+              "RelativeToolTip": "TaskMVC\\Views\\Product\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG0BAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T09:27:08.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaskMVC\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "TaskMVC\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAG4BAAAAAAAAAAAjwHQBAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T09:22:44.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "TaskMVC\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "TaskMVC\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:21:41.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "TaskMVC\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "TaskMVC\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T08:26:27.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\appsettings.json",
+              "RelativeToolTip": "TaskMVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-07T07:43:42.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TaskMVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TaskMVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T07:50:48.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\Program.cs",
+              "RelativeDocumentMoniker": "TaskMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\Program.cs",
+              "RelativeToolTip": "TaskMVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T07:45:49.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaskMVC",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\TaskMVC.csproj",
+              "RelativeDocumentMoniker": "TaskMVC\\TaskMVC.csproj",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\TaskMVC.csproj",
+              "RelativeToolTip": "TaskMVC\\TaskMVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-07T07:43:32.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaskMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TaskMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOUCAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T07:40:01.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TaskMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TaskMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T07:39:08.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
