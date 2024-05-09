@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\TaskMVC.csproj": {}
+    "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\TaskMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\TaskMVC.csproj": {
+    "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\TaskMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\TaskMVC.csproj",
+        "projectUniqueName": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\TaskMVC.csproj",
         "projectName": "TaskMVC",
-        "projectPath": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\TaskMVC.csproj",
-        "packagesPath": "C:\\Users\\ca.r214.04\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ca.r214.04\\Desktop\\TaskMVC\\TaskMVC\\obj\\",
+        "projectPath": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\TaskMVC.csproj",
+        "packagesPath": "C:\\Users\\Heydar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ca.r214.04\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Heydar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,6 +44,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
