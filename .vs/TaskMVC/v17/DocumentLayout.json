@@ -1,85 +1,93 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\",
+  "WorkspaceRootPath": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|c:\\users\\heydar\\desktop\\multishop-mvc\\taskmvc\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|c:\\users\\heydar\\desktop\\multishop-mvc\\taskmvc\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|c:\\users\\heydar\\desktop\\multishop-mvc\\taskmvc\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\taskmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|c:\\users\\heydar\\desktop\\multishop-mvc\\taskmvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|c:\\users\\heydar\\desktop\\multishop-mvc\\taskmvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|c:\\users\\heydar\\desktop\\multishop-mvc\\taskmvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|c:\\users\\heydar\\desktop\\multishop-mvc\\taskmvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\taskmvc\\taskmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\taskmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\taskmvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\taskmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|c:\\users\\heydar\\desktop\\multishop-mvc\\taskmvc\\dataacceslayer\\multicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\dataacceslayer\\multicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\taskmvc\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|c:\\users\\heydar\\desktop\\multishop-mvc\\taskmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\taskmvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\taskmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|c:\\users\\heydar\\desktop\\multishop-\\taskmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\taskmvc\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|C:\\Users\\Heydar\\Desktop\\MultiShop-\\taskmvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|C:\\Users\\Heydar\\Desktop\\MultiShop-\\taskmvc\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|C:\\Users\\Heydar\\Desktop\\MultiShop-\\taskmvc\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|C:\\Users\\Heydar\\Desktop\\MultiShop-\\taskmvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|C:\\Users\\Heydar\\Desktop\\MultiShop-\\taskmvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|C:\\Users\\Heydar\\Desktop\\MultiShop-\\taskmvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|C:\\Users\\Heydar\\Desktop\\MultiShop-\\taskmvc\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|C:\\Users\\Heydar\\Desktop\\MultiShop-\\taskmvc\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|C:\\Users\\Heydar\\Desktop\\MultiShop-\\taskmvc\\dataacceslayer\\multicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\dataacceslayer\\multicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|C:\\Users\\Heydar\\Desktop\\MultiShop-\\taskmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|C:\\Users\\Heydar\\Desktop\\MultiShop-\\taskmvc\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|C:\\Users\\Heydar\\Desktop\\MultiShop-\\taskmvc\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|C:\\Users\\Heydar\\Desktop\\MultiShop-\\taskmvc\\taskmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\taskmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|C:\\Users\\Heydar\\Desktop\\MultiShop-\\taskmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|C:\\Users\\Heydar\\Desktop\\MultiShop-\\taskmvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|C:\\Users\\Heydar\\Desktop\\MultiShop-\\taskmvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|C:\\Users\\Heydar\\Desktop\\MultiShop-\\taskmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|C:\\Users\\Heydar\\Desktop\\MultiShop-\\taskmvc\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\taskmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|C:\\Users\\Heydar\\Desktop\\MultiShop-\\taskmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\taskmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|C:\\Users\\Heydar\\Desktop\\MultiShop-\\taskmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\taskmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|C:\\Users\\Heydar\\Desktop\\MultiShop-\\taskmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{EAE82488-0946-4E23-901D-30A6D13FC9D3}|TaskMVC\\TaskMVC.csproj|solutionrelative:taskmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -90,210 +98,233 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "TaskMVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "TaskMVC\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-07T07:41:44.587Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "RelativeDocumentMoniker": "TaskMVC\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "RelativeToolTip": "TaskMVC\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-09T20:20:59.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "RelativeDocumentMoniker": "TaskMVC\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "RelativeToolTip": "TaskMVC\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-09T20:17:00.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "TaskMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "TaskMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-09T20:14:14.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SliderController.cs",
-              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeDocumentMoniker": "TaskMVC\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeToolTip": "TaskMVC\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T20:12:21.345Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "TaskMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "TaskMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAACoAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-09T20:11:27.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "TaskMVC\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "TaskMVC\\ScaffoldingReadMe.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-05-09T18:59:15.559Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\Program.cs",
-              "RelativeDocumentMoniker": "TaskMVC\\Program.cs",
-              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\Program.cs",
-              "RelativeToolTip": "TaskMVC\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "TaskMVC\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "TaskMVC\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T07:45:49.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T20:12:21.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MultiContext.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\DataAccesLayer\\MultiContext.cs",
+              "RelativeDocumentMoniker": "TaskMVC\\DataAccesLayer\\MultiContext.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\DataAccesLayer\\MultiContext.cs",
+              "RelativeToolTip": "TaskMVC\\DataAccesLayer\\MultiContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T19:49:11.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaskMVC\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "TaskMVC\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T20:17:00.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TaskMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TaskMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T20:14:14.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TaskMVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TaskMVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T20:14:31.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Views\\Product\\Detail.cshtml",
+              "RelativeDocumentMoniker": "TaskMVC\\Views\\Product\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Views\\Product\\Detail.cshtml",
+              "RelativeToolTip": "TaskMVC\\Views\\Product\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG0BAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T09:27:08.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaskMVC\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "TaskMVC\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHQBAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T09:22:44.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TaskMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TaskMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAADcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T20:11:27.161Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "TaskMVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "TaskMVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeDocumentMoniker": "TaskMVC\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeToolTip": "TaskMVC\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-09T20:14:31.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MultiContext.cs",
-              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\DataAccesLayer\\MultiContext.cs",
-              "RelativeDocumentMoniker": "TaskMVC\\DataAccesLayer\\MultiContext.cs",
-              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\DataAccesLayer\\MultiContext.cs",
-              "RelativeToolTip": "TaskMVC\\DataAccesLayer\\MultiContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T19:49:11.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T16:39:35.5Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "TaskMVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Controllers\\HomeController.cs",
               "RelativeToolTip": "TaskMVC\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T07:39:08.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T07:39:08.855Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "TaskMVC\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "TaskMVC\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "DocumentIndex": 11,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "TaskMVC\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Models\\Slider.cs",
+              "RelativeToolTip": "TaskMVC\\Models\\Slider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T09:21:41.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T18:56:42.026Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\Views\\Product\\Detail.cshtml",
-              "RelativeDocumentMoniker": "TaskMVC\\Views\\Product\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\Views\\Product\\Detail.cshtml",
-              "RelativeToolTip": "TaskMVC\\Views\\Product\\Detail.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG0BAABQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T09:27:08.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TaskMVC.csproj",
-              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\TaskMVC.csproj",
-              "RelativeDocumentMoniker": "TaskMVC\\TaskMVC.csproj",
-              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\TaskMVC.csproj",
-              "RelativeToolTip": "TaskMVC\\TaskMVC.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-07T07:43:32.56Z",
-              "EditorCaption": ""
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "TaskMVC\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "TaskMVC\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T19:08:46.465Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "TaskMVC\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "TaskMVC\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T09:35:41.6Z",
-              "EditorCaption": ""
+              "Title": "TaskMVC.csproj",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\TaskMVC.csproj",
+              "RelativeDocumentMoniker": "TaskMVC\\TaskMVC.csproj",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\TaskMVC.csproj",
+              "RelativeToolTip": "TaskMVC\\TaskMVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-07T07:43:32.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Program.cs",
+              "RelativeDocumentMoniker": "TaskMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Program.cs",
+              "RelativeToolTip": "TaskMVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T07:45:49.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "TaskMVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "TaskMVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-09T18:59:15.559Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "TaskMVC\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "TaskMVC\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:21:41.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TaskMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TaskMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T09:35:41.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\Views\\Home\\Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Views\\Home\\Contact.cshtml",
               "RelativeDocumentMoniker": "TaskMVC\\Views\\Home\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Views\\Home\\Contact.cshtml",
               "RelativeToolTip": "TaskMVC\\Views\\Home\\Contact.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -301,11 +332,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\appsettings.json",
               "RelativeDocumentMoniker": "TaskMVC\\appsettings.json",
-              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\appsettings.json",
               "RelativeToolTip": "TaskMVC\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -313,23 +344,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "TaskMVC\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "TaskMVC\\Views\\Product\\Index.cshtml",
-              "ViewState": "AQIAAG4BAAAAAAAAAAAjwHQBAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T09:22:44.255Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "TaskMVC\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "TaskMVC\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -337,11 +356,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "TaskMVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "TaskMVC\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAOUCAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\TaskMVC.csproj": {}
+    "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\TaskMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\TaskMVC.csproj": {
+    "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\TaskMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\TaskMVC.csproj",
+        "projectUniqueName": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\TaskMVC.csproj",
         "projectName": "TaskMVC",
-        "projectPath": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\TaskMVC.csproj",
+        "projectPath": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\TaskMVC.csproj",
         "packagesPath": "C:\\Users\\Heydar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Heydar\\Desktop\\MultiShop-MVC\\TaskMVC\\obj\\",
+        "outputPath": "C:\\Users\\Heydar\\Desktop\\MultiShop-\\TaskMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Heydar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,26 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[8.0.2, )"
